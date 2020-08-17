@@ -13,3 +13,4 @@ You are always welcome to be a part of **Finding The Dots** family. Share with u
 [<img src="https://img.shields.io/badge/slack-join%20us%20now-purple.svg?logo=slack">](https://join.slack.com/t/findingthedots/shared_invite/enQtOTY2ODI3MDE2Njk1LTBkODY0NjBjZWVhNTFjZjVlOTc5ZGZlMDdlNTgzNjlmNzQ5YmVhNmZlOTE3YWRjZWRhYWI2OGNiZDJkNWZhY2I)
 
 Cheers.
+Thank you
